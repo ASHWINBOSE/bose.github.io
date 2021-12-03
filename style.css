@@ -1,0 +1,10 @@
+body{
+    background-color: blueviolet;
+
+}
+h1{
+    width: auto;
+    color: chartreuse;
+    margin-left: 20px;
+    outline: darkgoldenrod;
+}
